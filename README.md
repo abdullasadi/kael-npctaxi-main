@@ -8,7 +8,7 @@
 
 ![banner2](banner2.png)
 ### NPC Taxi With VIP System
-- [Preview] UpComing
+- [Preview] (https://youtu.be/_KWrqulwqbg)
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 - [qb-target](https://github.com/qbcore-framework/qb-target)
