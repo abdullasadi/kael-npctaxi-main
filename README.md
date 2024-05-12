@@ -1,5 +1,5 @@
 
-![banner1|690x38](upload://npctaxi.png)
+![banner1|690x38](upload://npctaxi.PNG)
 
 ## Features
 - Easy Configuration
