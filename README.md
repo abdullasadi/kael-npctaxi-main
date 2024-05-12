@@ -1,5 +1,5 @@
 
-![npctaxi](upload://npctaxi.png)
+![npctaxi](upload://npctaxi.jpg)
 
 ## Features
 - Easy Configuration
