@@ -1,12 +1,11 @@
 
-![npctaxi](npctaxi.png)
+![npctaxi](upload://npctaxi.png)
 
 ## Features
 - Easy Configuration
 - Qb-Core Ready
 - Discord VIP System
 
-![banner2](banner2.png)
 ### NPC Taxi With VIP System
 - [Preview] (https://youtu.be/_KWrqulwqbg)
 ## Dependencies
@@ -14,7 +13,6 @@
 - [qb-target](https://github.com/qbcore-framework/qb-target)
 - [zdiscord](https://github.com/zfbx/zdiscord)
 
-![banner3](banner3.png)
 ## More From Kael Scripts
 - [Illegal Cargo Delivery](https://kael.tebex.io/package/5642002)
 - [Pearls Job](https://kael.tebex.io/package/5672502)
