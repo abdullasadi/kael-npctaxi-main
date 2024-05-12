@@ -1,5 +1,6 @@
 
-![npctaxi](https://github.com/abdullasadi/kael-npctaxi-main/assets/17822126/ea34fb8a-ab54-4cb9-899e-6656c68214be)
+![Kael_npc_taxi_thumbnail-01](https://github.com/abdullasadi/kael-npctaxi-main/assets/17822126/5f0ae7e9-effe-49c9-810b-c0f04353b5e4)
+
 
 
 ## Features
