@@ -1,5 +1,6 @@
 
-![npctaxi](npctaxi.jpg)
+![npctaxi](https://github.com/abdullasadi/kael-npctaxi-main/assets/17822126/ea34fb8a-ab54-4cb9-899e-6656c68214be)
+
 
 ## Features
 - Easy Configuration
