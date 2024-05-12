@@ -6,7 +6,7 @@
 - Qb-Core Ready
 - Discord VIP System
 
-![banner2|690x38](upload://qOCCdW7F51qCAeTU8FsxDgMLCDu.jpeg)
+![banner2](banner2.jpeg)
 ### NPC Taxi With VIP System
 - [Preview] UpComing
 ## Dependencies
@@ -14,7 +14,7 @@
 - [qb-target](https://github.com/qbcore-framework/qb-target)
 - [zdiscord](https://github.com/zfbx/zdiscord)
 
-![banner3|690x38](upload://dVqwhKHzHsJ1eeQpxCz3GaTkjyG.jpeg)
+![banner3](banner3.jpeg)
 ## More From Kael Scripts
 - [Illegal Cargo Delivery](https://kael.tebex.io/package/5642002)
 - [Pearls Job](https://kael.tebex.io/package/5672502)
